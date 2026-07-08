@@ -1,4 +1,4 @@
-package VendingMachine.exceptions;
+package exception;
 
 public class ProductNotFoundException extends RuntimeException {
 
